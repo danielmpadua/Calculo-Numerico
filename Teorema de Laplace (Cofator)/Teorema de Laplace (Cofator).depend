@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537539786 source:c:\users\daniel\desktop\estudo\calculo numerico\teorema de laplace (cofator)\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

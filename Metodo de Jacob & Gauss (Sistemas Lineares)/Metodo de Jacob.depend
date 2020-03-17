@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537025303 source:c:\users\daniel\desktop\estudo\calculo numerico\sistemas lineares\metodo de jacob\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

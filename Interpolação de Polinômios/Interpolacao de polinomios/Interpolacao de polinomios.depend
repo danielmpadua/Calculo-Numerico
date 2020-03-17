@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539957736 source:c:\users\daniel\desktop\estudo\calculo numerico\interpolação de polinômios\interpolacao de polinomios\main.cpp
+	<iostream>
+	<fstream>
+

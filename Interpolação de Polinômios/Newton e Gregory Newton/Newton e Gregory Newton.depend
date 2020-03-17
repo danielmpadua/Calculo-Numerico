@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543414694 source:c:\users\daniel\desktop\estudo\calculo numerico\interpolação de polinômios\newton e gregory newton\main.cpp
+	<iostream>
+	<math.h>
+

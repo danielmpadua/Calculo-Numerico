@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543423426 source:c:\users\daniel\desktop\estudo\calculo numerico\integracao\gauss legendre\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+
+1543419826 source:c:\users\daniel\desktop\estudo\calculo numerico\integracao\gauss legendre (integração)\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536970998 source:c:\users\daniel\desktop\estudo\calculo numerico\triangulacao de matriz\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
